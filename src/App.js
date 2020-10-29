@@ -16,19 +16,19 @@ function App() {
     <div className="work">
 <div className="website">
   <h1 className="website-name">Coding Oc</h1>
- <img className="website-image" src="https://squidslippers.com/static/media/Jiffy1.4f0d8bce.PNG"/>
+ <img className="website-image" src="https://i.imgur.com/3HQqNuh.png"/>
   <div className="website-status-online"> 
   <p className="f">Online</p></div>
 </div>
 <div className="website">
-  <h1 className="website-name">Coding Oc</h1>
- <img className="website-image" src="https://squidslippers.com/static/media/Jiffy1.4f0d8bce.PNG"/>
+  <h1 className="website-name">Artistry</h1>
+ <img className="website-image" src="https://i.imgur.com/6Ye5lJK.png"/>
   <div className="website-status-online"> 
   <p className="f">Online</p></div>
 </div>
 <div className="website">
-  <h1 className="website-name">Coding Oc</h1>
- <img className="website-image" src="https://squidslippers.com/static/media/Jiffy1.4f0d8bce.PNG"/>
+  <h1 className="website-name">Docs</h1>
+ <img className="website-image" src="https://i.imgur.com/X9mSpb3.png"/>
   <div className="website-status-offline"> 
   <p className="f">Temporarily Offline</p></div>
 </div>
