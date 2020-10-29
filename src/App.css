@@ -1,38 +1,111 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.title{
+  background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/3/29/ngDdte.jpg");
+  height: 600px;
+  /* justify-content: center; */
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
+  flex-wrap: wrap;
+
+}
+
+.section-header{
+  background-image: url("https://nuwallpaperhd.info/wp-content/uploads/2018/01/Cool-Grey-Background-Wallpaper.jpg");
+  height: 100px;
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-self: center;
+  color: whitesmoke;
+  font-size: 40px;;
+  border-style: solid;
+  border-color: black;
+  
+  
 }
 
-.App-link {
-  color: #61dafb;
+.projects{
+  padding-top: 1.5%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.name{
+  color: whitesmoke;
+  font-size: 70px;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  padding-left: 100%;
+  margin-top: 40%;
+
 }
+
+.developer{
+  color: whitesmoke;
+  font-size: 30px;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  padding-left: 110%;
+
+}
+
+
+.work{
+  background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/3/29/ngDdte.jpg");
+display: flex;
+justify-content: center;
+align-items: center;
+  height: 500px;
+}
+
+.website{
+  height: 350px;
+  width: 450px;
+ background-image: url("https://suasion.us/wp-content/uploads/2019/03/cool-grey-background-1.jpg");
+  margin-left: 1%;
+  margin-right: 1%;
+  /* border-style: solid; */
+  border-radius: 20px;
+
+}
+
+.website-name{
+  padding: 0px;
+  margin: 0px;
+  margin-left: 32%;
+}
+
+.website-image{
+  width:400px;
+  margin-left: 20px;
+  margin-top: 5%;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: grey;
+}
+
+.website-status-online{
+  font-size: 20px;
+  background-image: url("https://cdn.pixabay.com/photo/2018/02/27/09/17/background-3185014__340.jpg");
+  border-style: solid;
+  height: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.f{
+  padding: 0%;
+  margin: 0%;
+  color: rgb(0, 0, 0);
+  margin-top: 3px;
+}
+.website-status-offline{
+  font-size: 20px;
+  background-image: url("https://ak.picdn.net/shutterstock/videos/6753145/thumb/1.jpg");
+  border-style: solid;
+  height: 30px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
