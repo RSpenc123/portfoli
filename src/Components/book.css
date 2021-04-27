@@ -1,0 +1,45 @@
+.name1{
+    color: whitesmoke;
+    font-size: 70px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    /* margin-left: 300%; */
+    /* padding-left: 100%; */
+    /* margin-top: 40%; */
+  
+  }
+
+
+  .title1{
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/3/29/ngDdte.jpg");
+    height: 1200px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  
+  }
+
+  .desc{
+      height: 100px;
+      /* margin: 200px; */
+      padding-left: 20px;
+    color: whitesmoke;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+
+
+  .work1{
+    /* background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/3/29/ngDdte.jpg"); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    margin-bottom: 100px;
+  }
